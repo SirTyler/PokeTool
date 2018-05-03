@@ -6,5 +6,5 @@ Increase - PLUS
 Decrease - MINUS    
 Reset    - DIVIDE    
 
-These can be changed in the created encounters.txt file
+These can be changed in the created encounters.txt file    
 *uses java AWT Keystrokes*
