@@ -1,5 +1,5 @@
-# PokeTool
-Streamer assistant for Pokemon Games.
+# PokéTool
+Streamer assistant for Pokémon Games.
 
 Shiny Encounters have Hotkeys of:    
 Increase - PLUS    
